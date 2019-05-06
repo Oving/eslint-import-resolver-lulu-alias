@@ -1,14 +1,14 @@
 {
-	"name": "eslint-import-resolver-webpack-alias",
+	"name": "eslint-import-resolver-lulu-alias",
 	"version": "1.0.0",
-	"description": "eslint import resolver for webpack alias",
+	"description": "eslint import resolver for lulu(on webpack actually) alias",
 	"main": "index.js",
 	"engines": {
 		"node": ">=6"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jiawang1/eslint-import-resolver-webpack-alias.git"
+		"url": "https://github.com/oving/eslint-import-resolver-lulu-alias.git"
 	},
 	"peerDependencies": {
 		"eslint-plugin-import": ">=1.4.0"
@@ -16,8 +16,15 @@
 	"scripts": {
 		"test": "test"
 	},
-	"files": ["index.js"],
-	"keywords": ["eslint-import", "webpack", "alias"],
-	"author": "Wang jia",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"eslint-import",
+		"webpack",
+		"lulu",
+		"alias"
+	],
+	"author": "Pei Shunqian",
 	"license": "MIT"
 }
